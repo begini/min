@@ -39,25 +39,25 @@
         "enterReaderView": "Masuk ke tampilan reader",
         "exitReaderView": "Keluar dari tampilan reader",
         "emptyReadingListTitle": "Daftar bacaan anda masih kosong",
-        "emptyReadingListSubtitle": "Articles you open in reader view are listed here, and are saved offline for 30 days.",
-        "newTabLabel": "New Tab", //this is a noun, used for tabs that don't have a page loaded in them yet
-        "connectionNotSecure": "Your connection to this website is not secure.",
-        "searchbarPlaceholder": "Search or enter address",
-        "privateTab": "Private tab",
-        "newTabAction": "New Tab", //this is a verb, used to label a button that adds a tab to the tabstrip when clicked
+        "emptyReadingListSubtitle": "Artikel yang anda buka di tampilan reader akan dimuat di sini, dan disimpan secara offline selama 30 hari.",
+        "newTabLabel": "Tab Baru", //this is a noun, used for tabs that don't have a page loaded in them yet
+        "connectionNotSecure": "Sambungan anda ke situs ini tidak aman.",
+        "searchbarPlaceholder": "Cari atau masukkan alamar",
+        "privateTab": "Tab privat",
+        "newTabAction": "Buat Tab Baru", //this is a verb, used to label a button that adds a tab to the tabstrip when clicked
         /* task overlay */
-        "viewTasks": "View Tasks",
-        "newTask": "New Task", //"new" is a verb - it is used for a button at the bottom of the task overlay
-        "defaultTaskName": "Task %n", //this is the name used for newly-created tasks; %n is replaced with a number ("task 1", "task 2", etc)
+        "viewTasks": "Lihat Tugas",
+        "newTask": "Buat Tugas Baru", //"new" is a verb - it is used for a button at the bottom of the task overlay
+        "defaultTaskName": "Tugas %n", //this is the name used for newly-created tasks; %n is replaced with a number ("task 1", "task 2", etc)
         /* find in page toolbar */
-        "searchInPage": "Search in Page", //this is used as the placeholder text for the textbox in the find in page toolbar
-        "findMatchesSingular": "%i of %t match", //this and the next label are used to indicate which match is currently highlighted
-        "findMatchesPlural": "%i of %t matches",
+        "searchInPage": "Cari di Halaman", //this is used as the placeholder text for the textbox in the find in page toolbar
+        "findMatchesSingular": "%i dari %t hasil", //this and the next label are used to indicate which match is currently highlighted
+        "findMatchesPlural": "%i dari %t hasil",
         /* Focus mode */
-        "isFocusMode": "You're in Focus Mode.",
+        "isFocusMode": "Anda dalam Mode Fokus.",
         "closeDialog": "OK", //used as a label for the button that closes the dialog
-        "focusModeExplanation1": "In focus mode, all tabs except the current one are hidden, and you can't create new tabs.",
-        "focusModeExplanation2": "You can leave focus mode by unchecking \"focus mode\" in the view menu.",
+        "focusModeExplanation1": "Dalam mode fokus, semua tab kecual yang sedang aktif akan disembunyikan, dan anda tidak bisa membuat tab baru.",
+        "focusModeExplanation2": "Anda bisa keluar dari mode fokus dengan menghapus centang \"mode fokus\" pada menu view.",
         /* pages/crash/index.html */
         "crashErrorTitle": "Something went wrong.",
         "crashErrorSubtitle": "A problem has occurred while displaying this page.",
