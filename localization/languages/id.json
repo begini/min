@@ -1,44 +1,44 @@
 {
-    "name": "English (United States)",
-    "identifier": "en-US",
+    "name": "Bahasa Indonesia",
+    "identifier": "id",
     "translations": {
         /* Context menu items
         these are the items displayed in the menu when you right-click on a page
         */
-        "openInNewTab": "Open in New Tab",
-        "openInNewPrivateTab": "Open in New Private Tab",
-        "viewImage": "View Image",
-        "openImageInNewTab": "Open Image in New Tab",
-        "openImageInNewPrivateTab": "Open Image in New Private Tab",
-        "saveImageAs": "Save Image As",
-        "searchWith": "Search with %s", //%s will be replaced with the name of the current search engine
-        "copyLink": "Copy Link",
-        "copy": "Copy", //this is a verb (as in "copy the currently-selected text")
+        "openInNewTab": "Buka di Tab Baru",
+        "openInNewPrivateTab": "Buka di Tab Privat Baru",
+        "viewImage": "Lihat Gambar",
+        "openImageInNewTab": "Buka Gambar di Tab Baru",
+        "openImageInNewPrivateTab": "Buka Gambar di Tab Privat Baru",
+        "saveImageAs": "Simpan Gambar sbg",
+        "searchWith": "Cari dengan %s", //%s will be replaced with the name of the current search engine
+        "copyLink": "Salin Link",
+        "copy": "Salin", //this is a verb (as in "copy the currently-selected text")
         "paste": "Paste",
-        "goBack": "Go Back",
-        "goForward": "Go Forward",
-        "inspectElement": "Inspect Element",
+        "goBack": "Mundur",
+        "goForward": "Maju",
+        "inspectElement": "Inspeksi Elemen",
         /* searchbar */
-        "DDGAnswerSubtitle": "Answer", //this is a noun - it is used as a subtitle when displaying Instant Answers from DuckDuckGo in the searchbar
-        "suggestedSite": "Suggested site", //this is used to label suggested websites from the DuckDuckGo API,
-        "resultsFromDDG": "Results from DuckDuckGo", //this is used as a label to indicate which results come from DuckDuckGo's API
-        "taskN": "Task %n", //this is used as a way to identify which tab a task is in "task 1", "task 2", ...
-        "hostsFileEntry": "Hosts file entry", //this is a label used to indicate that a result is coming from the user's host file        
+        "DDGAnswerSubtitle": "Jawaban", //this is a noun - it is used as a subtitle when displaying Instant Answers from DuckDuckGo in the searchbar
+        "suggestedSite": "Situs yang disarankan", //this is used to label suggested websites from the DuckDuckGo API,
+        "resultsFromDDG": "Hasil dari DuckDuckGo", //this is used as a label to indicate which results come from DuckDuckGo's API
+        "taskN": "Tugas %n", //this is used as a way to identify which tab a task is in "task 1", "task 2", ...
+        "hostsFileEntry": "Entri berkas hosts", //this is a label used to indicate that a result is coming from the user's host file        
         /* custom !bangs
         these are some of the items that show up when you press ! in the searchbar.
         Each one of these strings describes what the command will do when you run it. */
-        "viewSettings": "View Settings",
-        "viewReadingList": "View Reading List",
-        "takeScreenshot": "Take a Screenshot",
-        "clearHistory": "Clear All History",
-        "switchToTask": "Switch to Task",
-        "createTask": "Create a Task",
-        "moveToTask": "Move this tab to a task",
-        "searchBookmarks": "Search bookmarks",
+        "viewSettings": "Lihat Pengaturan",
+        "viewReadingList": "Lihat Daftar Bacaan",
+        "takeScreenshot": "Buat Screenshot",
+        "clearHistory": "Bersihkan Semua Riwayat",
+        "switchToTask": "Pindah ke Tugas",
+        "createTask": "Buat Tugas",
+        "moveToTask": "Pindahkan tab ini ke tugas baru",
+        "searchBookmarks": "Cari bookmark",
         /* navbar */
-        "enterReaderView": "Enter reader view",
-        "exitReaderView": "Exit reader view",
-        "emptyReadingListTitle": "Your reading list is empty",
+        "enterReaderView": "Masuk ke tampilan reader",
+        "exitReaderView": "Keluar dari tampilan reader",
+        "emptyReadingListTitle": "Daftar bacaan anda masih kosong",
         "emptyReadingListSubtitle": "Articles you open in reader view are listed here, and are saved offline for 30 days.",
         "newTabLabel": "New Tab", //this is a noun, used for tabs that don't have a page loaded in them yet
         "connectionNotSecure": "Your connection to this website is not secure.",
